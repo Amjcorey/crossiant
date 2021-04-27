@@ -1,0 +1,16 @@
+body {
+  background-color: #66a4ad;
+}
+
+img {
+  display: block;
+  border-radius: 25px;
+  background-position: center center;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
