@@ -21,6 +21,7 @@ footer {
 }
 
 footer a {
+  margin: 0 10px;
   text-align: center;
   text-transform: capitalize;
   color: black;
