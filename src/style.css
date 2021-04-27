@@ -1,16 +1,27 @@
 body {
-  background-color: #66a4ad;
+  background-color: #e3cac7;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+h1,
+p {
+  text-align: center;
+}
+
+.crossiant-photo {
   display: block;
   border-radius: 25px;
   position: static;
+  margin: 30px auto;
+  max-width: 100%;
 }
 
-a {
+footer {
   text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
+}
+
+footer a {
+  text-align: center;
+  text-transform: capitalize;
   color: black;
 }
